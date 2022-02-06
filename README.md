@@ -10,3 +10,5 @@ It contains eight tables:
     Payments: customers' payment records
     Products: a list of scale model cars
     ProductLines: a list of product line categories
+
+Goal : To find priority product which are best-selling and low stock 
